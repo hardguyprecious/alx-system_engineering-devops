@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amp --group-directories-first && printf "\n"
+ls -amp --group-directories-first
